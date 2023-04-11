@@ -1,4 +1,5 @@
 <script>
+
 const browserWindow = window;
 const popup = document.querySelector(".filter-pop-up");
 let popupDisplayed = sessionStorage.getItem("popupDisplayed");
